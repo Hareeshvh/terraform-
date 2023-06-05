@@ -19,7 +19,7 @@ in my system, this path location is C:\Program Files\terraform_1.3.7
    ```
    the output should be something like below 
    ```sh
-   Terraform v1.3.7
+   Terraform v1.4.7
    on windows_386
    ```
 
